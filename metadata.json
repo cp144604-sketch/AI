@@ -1,0 +1,6 @@
+{
+  "name": "Vaani AI",
+  "description": "Natural voice-first AI companion app for open-ended conversations in Gujarati, Hindi, and English with realistic female voice playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

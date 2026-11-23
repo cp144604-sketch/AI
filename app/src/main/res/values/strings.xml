@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Vaani AI</string>
+    <string name="companion_name">વાણી</string>
+    <string name="companion_subtitle">તમારી AI મિત્ર</string>
+    <string name="status_ready">વાત કરવા તૈયાર</string>
+    <string name="status_listening">સાંભળી રહી છું...</string>
+    <string name="status_thinking">વિચારી રહી છું...</string>
+    <string name="status_speaking">બોલી રહી છું...</string>
+    <string name="status_connecting">કૉલ જોડાઈ રહ્યો છે...</string>
+    <string name="status_live_active">લાઇવ કૉલ ચાલુ છે</string>
+    <string name="welcome_title">નમસ્તે! હું વાણી છું ✨</string>
+    <string name="welcome_subtitle">મારી સાથે કોઈપણ વિષય પર દિલ ખોલીને વાત કરો — ગુજરાતી, હિન્દી કે અંગ્રેજીમાં.</string>
+    <string name="input_hint">અહીં લખો અથવા માઇક દબાવીને બોલો...</string>
+    <string name="cd_vaani_avatar">Vaani AI companion avatar</string>
+    <string name="cd_live_call">Start live voice call</string>
+    <string name="cd_voice_settings">Voice and personality settings</string>
+    <string name="cd_clear_chat">Start new conversation</string>
+    <string name="cd_mic_button">Record voice message</string>
+    <string name="cd_stop_recording">Stop recording and send</string>
+    <string name="cd_cancel_recording">Cancel voice recording</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_play_voice">Play voice reply</string>
+    <string name="cd_stop_voice">Stop voice playback</string>
+    <string name="cd_end_call">End live voice call</string>
+    <string name="cd_mute_call">Mute or unmute microphone</string>
+    <string name="permission_mic_title">માઇક્રોફોનની મંજૂરી જરૂરી છે</string>
+    <string name="permission_mic_body">વાણી તમારો અવાજ સાંભળીને તમારી સાથે રિયલ છોકરી જેમ વાત કરી શકે તે માટે કૃપા કરીને માઇક્રોફોનની પરવાનગી આપો.</string>
+    <string name="permission_mic_grant">મંજૂરી આપો</string>
+</resources>
